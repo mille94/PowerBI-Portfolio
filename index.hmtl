@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name's Data Analysis Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jamilla's Data Analysis Portfolio</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Hi! I'm <strong>Jamilla Walcott</strong>, a data enthusiast skilled in using Power BI to transform data into valuable insights.</p>
+    </section>
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>
+                <h3>Financial Performance Dashboard</h3>
+                <p>This interactive Power BI dashboard analyses revenue, expenses, profitability, and forecasting trends.</p>
+                <p><a href="https://github.com/Mille94/PowerBI-Portfolio" target="_blank">View on GitHub</a></p>
+            </li>
+        </ul>
+    </section>
+    <section>
+        <h2>Contact</h2>
+        <p>Email: jamillawalcott@me.com</p>
+    </section>
+</body>
+</html>
